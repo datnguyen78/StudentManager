@@ -5,7 +5,7 @@ import com.cs403.appquanlythuvien.Notification.NotificationService;
 import com.cs403.appquanlythuvien.User.User;
 
 public class Loan {
-    public String borrowID;
+    public String borrowID;  //Must not be null
     public User borrower;  
     public Book book;     
     public int daysBorrowed;
