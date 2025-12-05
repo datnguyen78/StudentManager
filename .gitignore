@@ -1,9 +1,15 @@
-
+# Visual Studio and build artifacts
 .vs/
 bin/
 obj/
+
+# User-specific files
 *.user
 *.suo
+
 # Logs and cache
 *.log
 *.cache
+
+# JetBrains IDE settings
+.idea/
