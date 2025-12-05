@@ -1,7 +1,7 @@
 package com.cs403.appquanlythuvien.User;
 
 public class User {
-    public String userID;
+    public String userID; //User Id must not be null
     public String fullname;
     public String role;
 
